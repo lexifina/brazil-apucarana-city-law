@@ -1,0 +1,9 @@
+{
+  "path": "br-pr-apucarana",
+  "code": "BR-PR-APUCARANA",
+  "name": "Apucarana (city)",
+  "level": "municipality",
+  "parent": "br-pr",
+  "repo": "https://github.com/lexifina/brazil-apucarana-city-law",
+  "build": "built: the law of Apucarana from the Câmara Municipal's SAPL"
+}
