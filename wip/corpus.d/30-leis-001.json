@@ -1,0 +1,110 @@
+{
+ "country": {
+  "code": "BR-PR-APUCARANA",
+  "name": "Apucarana",
+  "slug": "brazil-apucarana-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Câmara Municipal de Apucarana (SAPL)",
+   "email": "sapl@apucarana.pr.leg.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. This record takes in only municipal laws whose own vigência clause says they take effect on their publication (or signature), and dates each by the publication date the Câmara's SAPL records for it (else by its date).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Câmara Municipal de Apucarana, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.apucarana.pr.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative."
+ },
+ "sources": [
+  {
+   "name": "Câmara Municipal de Apucarana, SAPL: records of the municipal laws and their PDFs (newest first)",
+   "url": "https://sapl.apucarana.pr.leg.br/norma/pesquisar",
+   "retrieved": "2026-11-02",
+   "licence": "Texts: Câmara Municipal de Apucarana, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.apucarana.pr.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative.",
+   "notes": "1 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2025-00117": {
+   "label": "Lei nº 117, de 13 de novembro de 2025",
+   "title": "Dispõe sobre o aproveitamento do material fresado de asfalto e sua reutilização nas estradas rurais do Município de Apucarana, como especifica.",
+   "kind": "law",
+   "enacted": "2025-11-13",
+   "published": null,
+   "url": "https://sapl.apucarana.pr.leg.br/norma/10459",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2025-00117",
+   "short": "Lei 117/2025",
+   "title": "Lei nº 117, de 13 de novembro de 2025",
+   "url": "https://sapl.apucarana.pr.leg.br/norma/10459",
+   "first_law": "lei-2025-00117",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-11-13",
+     "source_url": "https://sapl.apucarana.pr.leg.br/media/sapl/public/normajuridica/2025/10459/lei-117-2025.pdf",
+     "sha256": "3d7aad1b232a71e9901cfe9bf55c66e2164ca4f6158cf17ff506ea8e5ab4f3ee",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 117/2025 Súmula:-Institui o Programa Municipal de Reaproveitamento de Fresado Asfáltico e dá outras providências.\nA CÂMARA MUNICIPAL DE APUCARANA, ESTADO DO PARANÁ, APROVOU PROJETO DE LEI DE AUTORIA DO VEREADOR ANTONIO LUCIANO FACCHIANO E EU, RODOLFO MOTA, PREFEITO DO MUNICÍPIO, OBEDECENDO AO DISPOSTO NO INCISO V, ARTIGO 55 DA LEI ORGÂNICA, SANCIONO A SEGUINTE:\nL E I\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Programa Municipal de Reaproveitamento de Fresado Asfáltico, destinado ao aproveitamento do material fresado de asfalto, extraído de ações de recapeamento, pavimentação e correção asfáltica realizadas no Município de Apucarana, para aplicação em vias rurais não pavimentadas.\n§1º.\nPara fins de aplicação desta Lei, entende-se por material fresado de asfalto o resíduo sólido retirado durante a manutenção da malha asfáltica.\n§2º.\nConsideram-se vias rurais não pavimentas das estradas e acessos localizados na zona rural do Município, abertos à circulação pública.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º São objetivos do Programa Municipal de Reaproveitamento de Fresado Asfáltico:\nI - Ampliar a vida útil das estradas vicinais utilizadas para transporte escolar, escoamento da produção agrícola e acesso a serviços essenciais;\nII - Reduzir os custos de manutenção viária, mediante o reaproveitamento do material fresado já disponível no Município;\nIII - Minimizar os impactos ambientais, por meio da destinação adequada e sustentável do material fresado de asfalto.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A execução do Programa observará as seguintes diretrizes:\nI - Priorização de trechos definidos em planejamento técnico anual elaborado pela Secretaria Municipal competente;\nII - Realização de laudo técnico-ambiental prévio, que ateste a viabilidade do reaproveitamento do fresado asfáltico;\nIII - Transparência dos atos administrativos, com publicação em dados abertos de quantidades aplicadas e trechos beneficiados.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º (VETADO)\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A Administração Municipal poderá firmar parcerias com o Departamento de Estradas de Rodagem do Paraná - DER/PR, bem como com empresas privadas, com a finalidade de obter a doação de material fresado de asfalto, visando suprir a demanda e as necessidades das estradas rurais.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º A aplicação do material fresado de asfalto deverá obedecer aos critérios de necessidade e urgência, conforme avaliação e fiscalização do setor competente.\n"
+      },
+      "art-0007": {
+       "label": "Art.7º",
+       "kind": "article",
+       "text": "Art.7º Esta Lei entra em vigor na data de sua publicação.\nMunicípio de Apucarana, em 13 de novembro de 2025.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 117, de 13 de novembro de 2025; dated by its date (SAPL records no publication date)."
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "Each municipal law (\"Lei\" and \"Lei Complementar\") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.",
+  "Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).",
+  "The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in \".\", \";\" or \":\". One file per Art.; \"000-titulo\" holds what comes before the first article."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL."
+ ]
+}
