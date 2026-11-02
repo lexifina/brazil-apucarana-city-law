@@ -1,0 +1,147 @@
+{
+ "country": "BR-PR-APUCARANA",
+ "acts": [
+  {
+   "slug": "lei-organica",
+   "short": "LOM-Apucarana",
+   "title": "Lei Orgânica do Município de Apucarana",
+   "url": "https://sapl.apucarana.pr.leg.br/norma/7749",
+   "versions": [
+    {
+     "from": "1990-04-05",
+     "units": 237,
+     "source_url": "https://sapl.apucarana.pr.leg.br/ta/1/text/vigencia/0,1990-04-05,2001-06-18:0pW-bv1FUHOiEB4P_rVFFEptvV8/",
+     "sha256": "5e1dbf146be2ce98b5f430162d8775bc29dc83688baffe7bcf4904fb269479f3"
+    },
+    {
+     "from": "2001-06-19",
+     "units": 237,
+     "source_url": "https://sapl.apucarana.pr.leg.br/ta/1/text/vigencia/2,2001-06-19,2002-04-29:hCn6UP4uaqFlXLv46CLKe68eiaQ/",
+     "sha256": "8f3d3552cb681a9dfb99989facfe548d2592ec89848d6a2d3f770ef9f01cb633"
+    },
+    {
+     "from": "2002-04-30",
+     "units": 237,
+     "source_url": "https://sapl.apucarana.pr.leg.br/ta/1/text/vigencia/3,2002-04-30,2003-02-12:tkf_XhVw0GxUSlKoPke7SpJmB3c/",
+     "sha256": "0957ece7008db2c3e4cdfae870ad2271f587c198f79d573e456e0247471bb6a7"
+    },
+    {
+     "from": "2003-02-13",
+     "units": 237,
+     "source_url": "https://sapl.apucarana.pr.leg.br/ta/1/text/vigencia/4,2003-02-13,2003-04-21:dS_vvTKTwZuwft9QeVfwTichmkI/",
+     "sha256": "8201b087cc84faf5b36a2d8958aef287cb71ae24cd116528852596177687ded1"
+    },
+    {
+     "from": "2003-04-22",
+     "units": 237,
+     "source_url": "https://sapl.apucarana.pr.leg.br/ta/1/text/vigencia/0,2003-04-22,2005-03-21:iT5Pm6CMl0bk4LlZcFmNXl3uVV0/",
+     "sha256": "f80c1d1d061bc393df6560673d09bb71ed8ec2097d2cc355717efd80d54c617e"
+    },
+    {
+     "from": "2003-04-22",
+     "units": 237,
+     "source_url": "https://sapl.apucarana.pr.leg.br/ta/1/text/vigencia/5,2003-04-22,2005-03-21:rGNbHB57_mS59wozsu1Y0Aev8JU/",
+     "sha256": "119cecb1048dc31bba2bcf1d9d8d2566a699775ff686cb2910de7f1632edb279"
+    },
+    {
+     "from": "2005-03-22",
+     "units": 237,
+     "source_url": "https://sapl.apucarana.pr.leg.br/ta/1/text/vigencia/6,2005-03-22,2005-06-29:g24vFTGPOcwSocEIX-ef9b5hrHw/",
+     "sha256": "d8eaf4c962530367d710b978f8e03a817f8344de572b39389f75a6890faad329"
+    },
+    {
+     "from": "2005-06-30",
+     "units": 237,
+     "source_url": "https://sapl.apucarana.pr.leg.br/ta/1/text/vigencia/7,2005-06-30,2007-12-27:ReIfAwLgtmnGv98ZVsb7N8z5lwo/",
+     "sha256": "576ad2c412052efd2109c559cef5bcdf967a085a81e9e3ca721b4a3d1afeeaca"
+    },
+    {
+     "from": "2007-12-28",
+     "units": 237,
+     "source_url": "https://sapl.apucarana.pr.leg.br/ta/1/text/vigencia/8,2007-12-28,2008-11-09:qeUhwemFlwE-wSrQVr_PeEfM3OU/",
+     "sha256": "11ae7dd52c948d8d604a449e513d3394bd3b3ba45b9949856664a383abb96217"
+    },
+    {
+     "from": "2008-11-10",
+     "units": 237,
+     "source_url": "https://sapl.apucarana.pr.leg.br/ta/1/text/vigencia/9,2008-11-10,2010-06-27:0ZXHnQtpU88jYMElq9Nu6XC1Jl4/",
+     "sha256": "6c2300189ee6e652e7f1d8a16d684e1d8c9f7fc5ecb51849fb9c694d11a88b6b"
+    },
+    {
+     "from": "2010-06-28",
+     "units": 237,
+     "source_url": "https://sapl.apucarana.pr.leg.br/ta/1/text/vigencia/10,2010-06-28,2011-08-28:m7TvYpt-9210zlvnl7L516QHgkk/",
+     "sha256": "eba9a9e74c0c49e8a5c0b16174ce4ec4a3038435e6646b5636bb049944f35d74"
+    },
+    {
+     "from": "2011-08-29",
+     "units": 237,
+     "source_url": "https://sapl.apucarana.pr.leg.br/ta/1/text/vigencia/11,2011-08-29,2012-04-22:Sz6qgNZE05h1z1uIjuxgiLBSf-s/",
+     "sha256": "2d9ab272c0f32a1331215d5cddd6e734bdefd42cece5479ca8e4fe7a900df38d"
+    },
+    {
+     "from": "2012-04-23",
+     "units": 237,
+     "source_url": "https://sapl.apucarana.pr.leg.br/ta/1/text/vigencia/12,2012-04-23,2013-10-29:XPKb1y41gVUA8_1u4dDJzxAsZF8/",
+     "sha256": "d112ca6daa723e2f3640bf1215fc217e81011e7e8bc3ed8ab1072bd2efd5a31e"
+    },
+    {
+     "from": "2013-10-30",
+     "units": 237,
+     "source_url": "https://sapl.apucarana.pr.leg.br/ta/1/text/vigencia/14,2013-10-30,2015-09-01:jxlVsL2poyjIuanVHaLv8k9k-1k/",
+     "sha256": "72d978f301cbddf188a82b25a19b988b45dbf9d7e5f7fee38c3a3c1765381640"
+    },
+    {
+     "from": "2015-09-02",
+     "units": 237,
+     "source_url": "https://sapl.apucarana.pr.leg.br/ta/1/text/vigencia/15,2015-09-02,2016-12-26:2gJr1dYlRe9jeJwliryxKqhR_j4/",
+     "sha256": "59495c16e4a5e25790329023c8565be7940b5cb2d353bb452796e63c150181d7"
+    },
+    {
+     "from": "2016-12-27",
+     "units": 237,
+     "source_url": "https://sapl.apucarana.pr.leg.br/ta/1/text/vigencia/16,2016-12-27,2018-12-18:gsyLixCGt371RhW2J7PuGrmL98k/",
+     "sha256": "0040d4bca696d382c475a7512eec5fb17c4bd514aae1eb29078f31dc81961fa1"
+    },
+    {
+     "from": "2018-12-19",
+     "units": 237,
+     "source_url": "https://sapl.apucarana.pr.leg.br/ta/1/text/vigencia/17,2018-12-19,2019-06-16:-SxlAKU8k055-_ql4U7GSxIDFL4/",
+     "sha256": "295b618cd37177e0c3b3f404d630020366c552b3fc355e7ded7f4c3d1d52a2c8"
+    },
+    {
+     "from": "2018-12-19",
+     "units": 237,
+     "source_url": "https://sapl.apucarana.pr.leg.br/ta/1/text/vigencia/18,2018-12-19,2019-06-16:7e0FkL6j7eWPaQbzcVlNM1moJQ0/",
+     "sha256": "b801a791314d5ca4281016edbb67f81fa899b566a3580d8794cc5f4cb4673ed6"
+    },
+    {
+     "from": "2019-06-17",
+     "units": 237,
+     "source_url": "https://sapl.apucarana.pr.leg.br/ta/1/text/vigencia/70,2019-06-17,2026-02-09:cS3qlgSOAq3JZ4gHhkwR3TcG6rc/",
+     "sha256": "60a978df5f5f89fb9b214a652e9f8effe65593dedce10c12193bb63ae12cc18d"
+    },
+    {
+     "from": "2026-02-10",
+     "units": 237,
+     "source_url": "https://sapl.apucarana.pr.leg.br/norma/7749",
+     "sha256": "7f8dbc7178715ce0caf4f2877ca85211ffe449c61daf088fc79c8d274bb32407"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-00117",
+   "short": "Lei 117/2025",
+   "title": "Lei nº 117, de 13 de novembro de 2025",
+   "url": "https://sapl.apucarana.pr.leg.br/norma/10459",
+   "versions": [
+    {
+     "from": "2025-11-13",
+     "units": 8,
+     "source_url": "https://sapl.apucarana.pr.leg.br/media/sapl/public/normajuridica/2025/10459/lei-117-2025.pdf",
+     "sha256": "3d7aad1b232a71e9901cfe9bf55c66e2164ca4f6158cf17ff506ea8e5ab4f3ee"
+    }
+   ]
+  }
+ ]
+}
