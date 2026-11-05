@@ -1,12 +1,12 @@
 # How this repository was made (Apucarana)
 
-This file is written by the build on 2026-11-03, the day the source data was retrieved.
+This file is written by the build on 2026-11-05, the day the source data was retrieved.
 
 ## Sources
 
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
-| Câmara Municipal de Apucarana, SAPL: Texto Articulado of the Lei Orgânica, one view per period of vigência | <https://sapl.apucarana.pr.leg.br/norma/7749> | 2026-11-03 | Text: Câmara Municipal de Apucarana, SAPL (Sistema de Apoio ao Processo Legislativo), Lei Orgânica do Município de Apucarana, sapl.apucarana.pr.leg.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Município is authoritative. |
+| Câmara Municipal de Apucarana, SAPL: Texto Articulado of the Lei Orgânica, one view per period of vigência | <https://sapl.apucarana.pr.leg.br/norma/7749> | 2026-11-05 | Text: Câmara Municipal de Apucarana, SAPL (Sistema de Apoio ao Processo Legislativo), Lei Orgânica do Município de Apucarana, sapl.apucarana.pr.leg.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Município is authoritative. |
 | Câmara Municipal de Apucarana, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.apucarana.pr.leg.br/norma/pesquisar> | 2026-11-02 | Texts: Câmara Municipal de Apucarana, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.apucarana.pr.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
@@ -27,7 +27,7 @@ The build made 17 commits:
 | 2 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `futuro`: laws not yet in force on 2026-11-03.
+- 0 commits on the branch `futuro`: laws not yet in force on 2026-11-05.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 19 laws in the record.
 - 32 tags.
@@ -42,7 +42,7 @@ When a law gives no date of its own, the default rule applies: The Lei Orgânica
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `1974dca1819e1e74e8814cc55596388ce39aec9f0058c0cfcce4f7558c42de30` (267466 bytes).
+- Corpus: sha256 `61133b208126ae80fcc2495fc39becdde614339326f4fb4421d3ad7ba024aefb` (267466 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
